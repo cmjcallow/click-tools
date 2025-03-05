@@ -1,0 +1,225 @@
+[
+  {
+    "output": {
+      "hotel_info": {
+        "name": "DoubleTree by Hilton Shanghai-Pudong",
+        "type": [
+          "Business",
+          "Luxury"
+        ],
+        "star_rating": [
+          "5-star"
+        ],
+        "address": {
+          "street1": "No. 889 Yanggao South Road",
+          "street2": "",
+          "city": "Shanghai",
+          "state_province": "",
+          "postal_code": "200127",
+          "country": "China"
+        },
+        "key_amenities": [
+          "Free WiFi",
+          "Indoor pool",
+          "Fitness center",
+          "Multiple dining options",
+          "Executive lounge",
+          "Business center"
+        ],
+        "usp": "Luxurious comfort in the heart of Shanghai's financial district with breathtaking city views",
+        "tone_of_voice": [
+          "Professional",
+          "Sophisticated",
+          "Welcoming"
+        ]
+      },
+      "location": {
+        "setting": [
+          "Urban",
+          "Financial District"
+        ],
+        "neighborhood": "Pudong New Area",
+        "transportation": {
+          "airport": {
+            "name": "Shanghai Pudong International Airport",
+            "distance": "30 km",
+            "travel_time": "40 minutes"
+          },
+          "train_station": {
+            "name": "Shanghai Hongqiao Railway Station",
+            "distance": "25 km",
+            "travel_time": "45 minutes"
+          },
+          "subway_station": {
+            "name": "Century Avenue Metro Station",
+            "distance": "1.5 km",
+            "travel_time": "5 minutes"
+          }
+        },
+        "nearby_attractions": [
+          {
+            "name": "Shanghai World Financial Center",
+            "type": [
+              "Landmark",
+              "Business"
+            ],
+            "distance": "2 km",
+            "travel_time": "10 minutes",
+            "context": "Iconic skyscraper offering panoramic views of the city"
+          },
+          {
+            "name": "Oriental Pearl TV Tower",
+            "type": [
+              "Landmark",
+              "Observation Deck"
+            ],
+            "distance": "2.5 km",
+            "travel_time": "15 minutes",
+            "context": "Futuristic tower with revolving restaurant and observation decks"
+          },
+          {
+            "name": "Shanghai Disneyland",
+            "type": [
+              "Theme Park",
+              "Entertainment"
+            ],
+            "distance": "20 km",
+            "travel_time": "30 minutes",
+            "context": "Magical Disney experience for all ages"
+          },
+          {
+            "name": "The Bund",
+            "type": [
+              "Historic Site",
+              "Waterfront"
+            ],
+            "distance": "7 km",
+            "travel_time": "20 minutes",
+            "context": "Iconic waterfront promenade with colonial-era buildings"
+          }
+        ]
+      },
+      "rooms": {
+        "room_types": {
+          "standard": true,
+          "suite": true,
+          "family": true,
+          "accessible": true,
+          "other": [
+            "Executive rooms with lounge access"
+          ]
+        },
+        "key_features": [
+          "Floor-to-ceiling windows",
+          "Sweet Dreams® by DoubleTree sleep experience",
+          "42-inch LCD TV",
+          "Ergonomic work desk",
+          "Rainforest shower",
+          "Complimentary bottled water"
+        ],
+        "context": "Elegant and spacious rooms with modern amenities and stunning city views"
+      },
+      "dining": {
+        "restaurant_types": [
+          "All-day dining",
+          "Chinese cuisine",
+          "Café",
+          "Lobby lounge"
+        ],
+        "key_features": [
+          "Grand Café - International buffet and à la carte options",
+          "Sui Yuan Chinese Restaurant - Authentic Cantonese and local specialties",
+          "NoDu - Casual dining with freshly baked goods and light meals",
+          "Lobby Lounge - Relaxed setting for afternoon tea and evening cocktails"
+        ],
+        "context": "A diverse range of culinary experiences to satisfy every palate"
+      },
+      "recreation": {
+        "outdoor_pool": {
+          "available": false,
+          "context": ""
+        },
+        "indoor_pool": {
+          "available": true,
+          "context": "Temperature-controlled indoor pool with city views"
+        },
+        "beach_access": {
+          "available": false,
+          "context": ""
+        },
+        "fitness_center": {
+          "available": true,
+          "context": "Well-equipped 24-hour fitness center with modern cardio and strength training equipment"
+        },
+        "spa": {
+          "available": false,
+          "context": ""
+        },
+        "golf": {
+          "available": false,
+          "context": ""
+        },
+        "tennis": {
+          "available": false,
+          "context": ""
+        },
+        "kids_club": {
+          "available": false,
+          "context": ""
+        },
+        "water_sports": {
+          "available": false,
+          "context": ""
+        },
+        "other_activities": [
+          "Jogging track",
+          "Nearby shopping at luxury malls"
+        ]
+      },
+      "events": {
+        "event_types": {
+          "weddings": true,
+          "meetings": true,
+          "conferences": true,
+          "other": [
+            "Social events",
+            "Corporate functions"
+          ]
+        },
+        "key_features": [
+          "2,000 square meters of flexible meeting space",
+          "Grand Ballroom accommodating up to 800 guests",
+          "State-of-the-art audiovisual equipment",
+          "Dedicated event planning team",
+          "Customizable catering options"
+        ],
+        "context": "Versatile event spaces for both business and social gatherings"
+      },
+      "services": {
+        "concierge": true,
+        "24hr_frontdesk": true,
+        "room_service": true,
+        "laundry": true,
+        "parking": {
+          "valet": true,
+          "self": true,
+          "context": "Convenient on-site parking available"
+        },
+        "shuttles": {
+          "airport": false,
+          "local_area": false,
+          "context": ""
+        },
+        "pet_friendly": false,
+        "multilingual_staff": true,
+        "other": [
+          "Express check-in/check-out",
+          "Currency exchange",
+          "Luggage storage",
+          "Business center"
+        ],
+        "context": "Comprehensive services catering to business and leisure travelers"
+      }
+    }
+  }
+]
